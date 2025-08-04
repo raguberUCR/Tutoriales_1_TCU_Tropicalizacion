@@ -22,7 +22,7 @@
 ## Tutorial de VitePress
 
 
-**Video del tutorial realizado:** [https://youtu.be/vZgY4y-rTig?si=hzHMv0NsFLGPv_an](https://youtu.be/vZgY4y-rTig?si=hzHMv0NsFLGPv_an)
+**Video del tutorial realizado:** [https://youtu.be/vZgY4y-rTig?si=ijADh7E5ChRB1BI4](https://youtu.be/vZgY4y-rTig?si=ijADh7E5ChRB1BI4)
 
 ### Instrucciones de ejecución
 
@@ -39,7 +39,7 @@
 ## Tutorial de Ionic-Vue
 
 
-**Video del tutorial realizado:** [https://youtu.be/nGIg40xs9e4?si=7YJaWTPRfDBDKKZJ](https://youtu.be/nGIg40xs9e4?si=7YJaWTPRfDBDKKZJ)
+**Video del tutorial realizado:** [https://youtu.be/mQ4zmFy4d7Y?si=zm2haiakPBTZmLCk](https://youtu.be/mQ4zmFy4d7Y?si=zm2haiakPBTZmLCk)
 
 ### Instrucciones de ejecución
 
@@ -48,7 +48,7 @@
 
 
 #### Ejecutar el servidor
-* Ionic serve
+* ionic serve
 
 #### Desde el navegador, ingresar a la dirección web indicada
 * Ejemplo: http://localhost:8101
